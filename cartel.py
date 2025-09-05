@@ -1,0 +1,10 @@
+print("Bienvenido a python🐍")
+print("######Cartel 6°B######")
+print("######ESTUDIANDO######")
+print("######APRENDIENDO######")
+print("#SE CREAN PROYECTO#")
+print("🐍😂🐳🐬✌️👌🤨🏍️🐒😊😖😎😍👍")
+print("#
+print("##LA PALABRA DEL DIA ES##")
+print("EL CONOCIMIENTO ES PODER 💪")
+print("ENTONCES APLIQUEMOSLO 💡")
